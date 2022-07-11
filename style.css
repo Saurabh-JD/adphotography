@@ -305,6 +305,7 @@ blockquote span{
 }
 .insta-imgs > div{
     position: relative;
+    margin: auto;
 }
 .icon-overlay{
     position: absolute;
